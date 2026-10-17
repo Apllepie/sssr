@@ -1,0 +1,8 @@
+% M(q)q''+ C(q,q')q'+ D(q) = u
+function [M, C, D] = robot_matrices(q, dq)
+ %paraametry madelu
+ l2 = 0.3   %[m]
+ l3 = 0.2   %[m]
+ m2 = 20    %[kg]
+ m3 = 20    %[kg]
+    g
