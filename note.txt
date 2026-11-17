@@ -1,2 +1,10 @@
 moźe być problem w 3 przegubie (zachowa się nie naturalnie)
 może pojawić sie problem przy sterowaniu -> sprawdzicć model
+
+Algorytm:
+Sodeha i Horowitza
+
+parametry
+m2+m3
+
+1/3m3l3^2
