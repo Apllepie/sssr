@@ -1,0 +1,2 @@
+moźe być problem w 3 przegubie (zachowa się nie naturalnie)
+może pojawić sie problem przy sterowaniu -> sprawdzicć model
